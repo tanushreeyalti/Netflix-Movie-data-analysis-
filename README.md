@@ -42,7 +42,5 @@ The dataset includes details like:
 - Visualized the most common countries producing Netflix content
 - Examined release year trends and durations
 
----
 
-## 📁 File Structure
 
